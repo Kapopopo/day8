@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+}
+
+.splide__slide {
+  transform: scale(1.2);
+  z-index: 10;
+}
+
+.splide__slide {
+  transition: transform 0.3s;
+}
